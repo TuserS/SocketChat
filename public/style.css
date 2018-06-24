@@ -1,0 +1,39 @@
+body {
+    background-color: #eee;
+    font-family: consolas;
+}
+
+h2 {
+    text-align: center;
+}
+
+#box {
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    overflow-y: scroll;
+}
+
+#name {
+    display: block;
+    width: 500px;
+    height: 25px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#message {
+    display: block;
+    width: 500px;
+    height: 30px;
+    margin: auto;
+    margin-top: 10px;
+}
+#btn {
+    display: block;
+    width: 500px;
+    height: 30px;
+    margin: auto;
+    margin-top: 10px;
+}
