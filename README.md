@@ -12,7 +12,7 @@ cd SocketChat
 ```
 Download node modules
 ```sh
-npm update
+npm install
 ```
 Run the project
 ```sh
